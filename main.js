@@ -4,7 +4,7 @@
  */
 
 import { Player } from './player.js';
-import { loadMapLapangan } from './mapLapangan.js';
+import { loadMapLapangan } from './maplapangan.js';
 import { loadMapMasjid } from './mapMasjid.js';
 import { RundownManager } from './rundown.js';
 
